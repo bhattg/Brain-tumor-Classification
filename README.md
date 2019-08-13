@@ -12,7 +12,7 @@ We thank [Dr. Prathosh AP](https://sites.google.com/view/prathosh),IIT Delhi for
 
 * The dataset used for training belonged to the BRATS Challenge 2015
 * The dataset used for testing belonged to a local radiologist and is confidential. 
-* We thanks to the brain extraction tool [BET](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET) required for the testign data. 
+* We thanks to the brain extraction tool [BET](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET) required for the testing data. 
 
 #### Report
 
