@@ -10,7 +10,8 @@ We thank Dr. Prathosh AP for the Testing dataset.
 
 #### References
 
-The dataset used for training belonged to the BRATS Challenge 2015
+* The dataset used for training belonged to the BRATS Challenge 2015
+* The dataset used for testing belonged to a local radiologist and is confidential. 
 
 #### Report
 
